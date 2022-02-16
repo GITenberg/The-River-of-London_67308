@@ -5,6 +5,9 @@ contributor:
     agent_name: Muirhead, John
     gutenberg_agent_id: '54207'
     url: http://www.gutenberg.org/2009/agents/54207
+covers:
+- cover_type: archival
+  image_path: 67308-h/images/cover.jpg
 creator:
   author:
     agent_name: Belloc, Hilaire
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2437
     wikipedia: https://en.wikipedia.org/wiki/Hilaire_Belloc
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67308#The-River-of-London
 gutenberg_issued: '2022-02-03'
 identifiers:
   gutenberg: '67308'
